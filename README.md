@@ -18,7 +18,8 @@
 7. docker-compose up 
 8. GO To OBS :
     8.1. Live stream 
-    8.2. rtmp://{server}:1935/live 
+    8.2. Server = rtmp://{server}:1935/live 
+    8.3. Stream Key = acplive?key=ACP_Stream
 9.
 
 To show only running containers use the given command:
